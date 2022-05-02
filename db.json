@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Vane",
+      "empresa": "Digital Topic",
+      "email": "vane.elizondo09@gmail.com",
+      "telefono": "86187848",
+      "notas": "Quiero una pagina web",
+      "id": 2
+    },
+    {
+      "nombre": "Pablo",
+      "empresa": "Digital Topic",
+      "email": "pikabarrax@gmail.com",
+      "telefono": "61784503",
+      "notas": "Desarrollo",
+      "id": 3
+    },
+    {
+      "nombre": "Nathalia",
+      "empresa": "Digital Topic",
+      "email": "nataliaelizondogutierrez@gmail.com",
+      "telefono": "63069942",
+      "notas": "Milena",
+      "id": 4
+    },
+    {
+      "nombre": "Emily",
+      "empresa": "Escuela",
+      "email": "roxana24.gs@gmail.com",
+      "telefono": "61784503",
+      "notas": "estudiante",
+      "id": 6
+    }
+  ]
+}
